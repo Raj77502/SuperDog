@@ -64,7 +64,7 @@ Safety takes priority over performance. Every subsystem should fail safely.
 ## Planned Specifications
 
 | Feature | Target |
-|------------------|
+| ---------------- |
 | Height  | ~55 cm |
 | Length  | ~80 cm |
 | Weight  | ~15 kg |
